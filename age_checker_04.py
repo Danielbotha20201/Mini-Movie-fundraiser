@@ -22,6 +22,7 @@ while True:
   
   if 12 <= age <= 120:
     pass
+    
   elif age < 12:
     print("Sorry you are too young for this movie")
     continue
